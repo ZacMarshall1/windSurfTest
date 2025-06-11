@@ -17,6 +17,31 @@
         .navbar-brand, h1, h2, h5 {
             font-family: 'New Rocker', cursive;
         }
+
+        /* Rock and Roll Button Styles */
+        .btn-primary {
+            background-color: #8B0000; /* DarkRed */
+            border-color: #000000;
+            color: #ffffff;
+        }
+
+        .btn-primary:hover {
+            background-color: #A52A2A; /* Brown */
+            border-color: #000000;
+        }
+
+        /* Custom Alert/Message Styles */
+        .alert-success {
+            background-color: #2E8B57; /* SeaGreen */
+            color: #ffffff;
+            border-color: #000000;
+        }
+
+        .alert-danger {
+            background-color: #8B0000; /* DarkRed */
+            color: #ffffff;
+            border-color: #000000;
+        }
     </style>
 </head>
 <body>
